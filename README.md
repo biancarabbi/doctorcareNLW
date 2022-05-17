@@ -10,6 +10,7 @@
 <hr>
 
 ## descrição do projeto: :memo:
+:arrow_right: <strong>acesse <a href="https://biancarabbi.github.io/doctorcareNLW/" target="_blank">aqui</a></strong>
 
 <p align="justify">
 Projeto realizado na edição de 2022 do <strong>NLW</strong> da <strong>Rocketseat</strong>. O objetivo da página criada é mostrar a prestação de serviços médicos, com a opção de marcar a consulta diretamente da página.</p>
@@ -24,3 +25,5 @@ Primeiro foi feita a versão mobile que contém um menu suspenso (ao clicar nos 
 :one: <strong>HTML 5</strong>
 :two: <strong>CSS3</strong>
 :three: <strong>JavaScript</strong>
+
+acesse <a href="https://biancarabbi.github.io/doctorcareNLW/" target="_blank">aqui</a> o projeto
