@@ -22,8 +22,6 @@ Primeiro foi feita a versão mobile que contém um menu suspenso (ao clicar nos 
 </p>
 
 ## tecnologias utilizadas: :woman_technologist:
-:one: <strong>HTML 5</strong>
-:two: <strong>CSS3</strong>
+:one: <strong>HTML 5</strong><br>
+:two: <strong>CSS3</strong><br>
 :three: <strong>JavaScript</strong>
-
-acesse <a href="https://biancarabbi.github.io/doctorcareNLW/" target="_blank">aqui</a> o projeto
